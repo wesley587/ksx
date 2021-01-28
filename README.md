@@ -5,11 +5,11 @@
 
 # cheking commit with Python
 
-## This project was creat using python, and Telgram Bot
+### This project was creat using python, and Telgram Bot, for the bot work the python code has to be running, *** username Bot @Github_commitBot
 
 ### [full code](github.com)
 
-## commands in Tegram 
+## commands that can be used to speak the bot
 | command  | description | how to use |
 | -------- |------------ | ---------- |
 | /subscribe | this command is used to monitor a repository | /subscribe aconut_name repository_name |
