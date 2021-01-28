@@ -4,9 +4,9 @@
 <!-- Italics -->
 # cheking commit with Python
 <!-- Strong -->
-### This project was creat using python, and Telgram Bot, for the bot work the python code has to be running, 
+### This project was creat using python, and Telgram Bot, for the bot work the python code has to be running 
 
-###username Bot *@Github_commitBot*
+### username Bot *@Github_commitBot*
 
 ## commands that can be used to speak the bot
 | command  | description | how to use |
