@@ -5,9 +5,7 @@
 # cheking commit with Python
 <!-- Strong -->
 ### This project was creat using python, and Telgram Bot, for the bot work the python code has to be running, 
-username Bot *@Github_commitBot*
-
-### [full code](github.com)
+##username Bot *@Github_commitBot*
 
 ## commands that can be used to speak the bot
 | command  | description | how to use |
@@ -19,3 +17,4 @@ username Bot *@Github_commitBot*
 | /menu | show the menu | /menu |
 
 
+### [full code](github.com)
