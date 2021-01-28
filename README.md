@@ -9,4 +9,5 @@
 
 <!-- Tables -->
 | valor  | valor |
+------------------
 | valor2 | valor |
