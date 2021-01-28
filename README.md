@@ -5,7 +5,7 @@
 
 # cheking commit with Python
 
-### This project was creat using python, and Telgram Bot, for the bot work the python code has to be running, ** username Bot @Github_commitBot **
+### This project was creat using python, and Telgram Bot, for the bot work the python code has to be running, *** username Bot @Github_commitBot ***
 
 ### [full code](github.com)
 
