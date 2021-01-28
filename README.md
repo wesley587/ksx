@@ -1,6 +1,6 @@
 <!-- Headings -->
-#cheking commit
+# cheking commit
 
 <!-- Strong -->
-##This project was creat using python, and API Telgram
+## This project was creat using python, and API Telgram
 
