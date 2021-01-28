@@ -18,6 +18,6 @@
 | /list | show all repository beingn monitored | /list |
 | /menu | show the menu | /menu |
 
-![imagem](C:\Users\Public\Pictures\Sample Pictures\deserto.png)
+![imagem](C:\Users\teste\Pictures\Sem título.png)
 
 ### [full code](github.com)
