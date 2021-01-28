@@ -1,4 +1,4 @@
-<-- Headings -->
+<!-- Headings -->
 #cheking commit
 
 <!-- Strong -->
