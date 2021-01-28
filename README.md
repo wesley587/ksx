@@ -7,6 +7,6 @@
 <!-- links -->
 ### [full code](github.com)
 
-<!-- tables -->
+<!-- Tables -->
 | valor | valor |
 |valor2 | valor |
