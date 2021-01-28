@@ -9,6 +9,8 @@
 
 <!-- Tables -->
 ## commands in Tegram 
-| command  | description |
-| -------- |------------ |
-| /subscribe | this command was check the repository that has been |
+| command  | description | how to use |
+| -------- |------------ | ---------- |
+| /subscribe | this command was check the repository that has been | /subscribe aconut_name repository_name |
+| /unsubscribe | used to break checking repository, but this repository was been ative | /unsubscribe /subscribe aconut_name repository_name |
+
