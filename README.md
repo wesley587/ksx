@@ -8,6 +8,7 @@
 ### [full code](github.com)
 
 <!-- Tables -->
-| valor  | valor |
-| ------ |------ |
-| valor2 | valor |
+## commands in Tegram 
+| command  | description |
+| -------- |------------ |
+| /subscribe | this command was check the repository that has been |
