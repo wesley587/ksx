@@ -1,11 +1,10 @@
 <!-- Headings -->
 <!-- links -->
-<!-- Strong -->
 <!-- Tables -->
 
 # cheking commit with Python
-
-### This project was creat using python, and Telgram Bot, for the bot work the python code has to be running, *** username Bot @Github_commitBot ***
+<!-- Strong -->
+### This project was creat using python, and Telgram Bot, for the bot work the python code has to be running, **_username Bot @Github_commitBot_**
 
 ### [full code](github.com)
 
