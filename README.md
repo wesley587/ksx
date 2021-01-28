@@ -8,5 +8,5 @@
 ### [full code](github.com)
 
 <!-- Tables -->
-| valor | valor |
-|valor2 | valor |
+| valor  | valor |
+| valor2 | valor |
